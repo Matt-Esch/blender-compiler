@@ -11,7 +11,7 @@ Coming soon.
 ### Acknowledgements
 
 
-cShader was inspired by context-blender by Phrogz.
+cShader was inspired by [context-blender](https://github.com/Phrogz/context-blender) by [Phrogz](https://github.com/Phrogz/).
 
 
 ### Licence
