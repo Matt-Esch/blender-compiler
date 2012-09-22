@@ -88,8 +88,6 @@ function blend(src, dst, blendMode, offsetOptions) {
 	dstContext.putImageData(dstSurface, offsets.destX, offsets.destY);
 }
 
-function shade(
-
 // For registering and querying custom blend functions
 function blendMode(blendMode, blendFunction) {
 	if (typeof blendFunction === 'function') {
