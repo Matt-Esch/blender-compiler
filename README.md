@@ -34,7 +34,7 @@ The blender compiler will do all of these things for us, whilst also making
 agressive performance optimisations, so that we just have to provide a blend
 function.
 
-blender-compiler was used to generate [isoblend][17], an implementation of the
+blender-compiler was used to generate [blender-compiler][17], an implementation of the
 blend modes used in PDF and Adobe® Photoshop®
 
 ## Use
@@ -111,22 +111,22 @@ var blender = compile(function (src, dst, out)) {
 
 ## MIT Licenced
 
-  [1]: https://secure.travis-ci.org/Matt-Esch/isoblend.png
-  [2]: https://travis-ci.org/Matt-Esch/isoblend
-  [3]: https://david-dm.org/Matt-Esch/isoblend.png
-  [4]: https://david-dm.org/Matt-Esch/isoblend
-  [5]: https://ci.testling.com/Matt-Esch/isoblend.png
-  [6]: https://ci.testling.com/Matt-Esch/isoblend
-  [9]: https://coveralls.io/repos/Matt-Esch/isoblend/badge.png
-  [10]: https://coveralls.io/r/Matt-Esch/isoblend
-  [13]: https://nodei.co/npm/isoblend.png?downloads=true&stars=true
-  [14]: https://nodei.co/npm/isoblend
+  [1]: https://secure.travis-ci.org/Matt-Esch/blender-compiler.png
+  [2]: https://travis-ci.org/Matt-Esch/blender-compiler
+  [3]: https://david-dm.org/Matt-Esch/blender-compiler.png
+  [4]: https://david-dm.org/Matt-Esch/blender-compiler
+  [5]: https://ci.testling.com/Matt-Esch/blender-compiler.png
+  [6]: https://ci.testling.com/Matt-Esch/blender-compiler
+  [9]: https://coveralls.io/repos/Matt-Esch/blender-compiler/badge.png
+  [10]: https://coveralls.io/r/Matt-Esch/blender-compiler
+  [13]: https://nodei.co/npm/blender-compiler.png?downloads=true&stars=true
+  [14]: https://nodei.co/npm/blender-compiler
   [15]: http://hughsk.github.io/stability-badges/dist/unstable.svg
   [16]: http://github.com/hughsk/stability-badges
 
-  [7]: https://badge.fury.io/js/isoblend.png
-  [8]: https://badge.fury.io/js/isoblend
-  [11]: https://gemnasium.com/Matt-Esch/isoblend.png
-  [12]: https://gemnasium.com/Matt-Esch/isoblend
+  [7]: https://badge.fury.io/js/blender-compiler.png
+  [8]: https://badge.fury.io/js/blender-compiler
+  [11]: https://gemnasium.com/Matt-Esch/blender-compiler.png
+  [12]: https://gemnasium.com/Matt-Esch/blender-compiler
 
-  [17]: https://github.com/Matt-Esch/isoblend
+  [17]: https://github.com/Matt-Esch/blender-compiler
