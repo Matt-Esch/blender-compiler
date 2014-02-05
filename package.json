@@ -1,15 +1,17 @@
 {
   "name": "blender-compiler",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Compiles per-pixel blend",
   "keywords": [],
   "author": "Matt-Esch <matt@mattesch.info>",
   "repository": "git://github.com/Matt-Esch/blender-compiler.git",
   "main": "index",
   "homepage": "https://github.com/Matt-Esch/blender-compiler",
-  "contributors": [{
-    "name": "Matt-Esch"
-  }],
+  "contributors": [
+    {
+      "name": "Matt-Esch"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/Matt-Esch/blender-compiler/issues",
     "email": "matt@mattesch.info"
@@ -18,10 +20,12 @@
   "devDependencies": {
     "tape": "~1.0.2"
   },
-  "licenses": [{
-    "type": "MIT",
-    "url": "http://github.com/Matt-Esch/blender-compiler/raw/master/LICENSE"
-  }],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/Matt-Esch/blender-compiler/raw/master/LICENSE"
+    }
+  ],
   "scripts": {
     "test": "node ./test/index.js",
     "start": "node ./index.js",
